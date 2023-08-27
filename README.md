@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MiguelGdevilGIS
+- 👀 I’m interested in GIS, remote sensing.
+- 🌱 I’m currently learning phyton
